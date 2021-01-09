@@ -23,4 +23,11 @@ This is where you will find all the answers: to life, to death, and to hello wor
 
 If you want to see the original file for this page, [click here](https://github.com/jpwong0316/jpwong0316.github.io/blob/main/README.md#jason-wongs-user-page).
 
-[Funny CS meme](testimage.webp)
+![Funny CS meme haha](testimage.webp)
+
+A list of languages that I have some experience with ~~doesn't mean I'm good with all of them~~:
+- Java
+- C
+- C++
+- Python
+- Assembly
