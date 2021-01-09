@@ -31,3 +31,8 @@ A list of languages that I have some experience with ~~doesn't mean I'm good wit
 - C++
 - Python
 - Assembly
+
+My to-do list for this quarter:
+- [ ] Don't fail horribly
+- [ ] Try not to procrastinate too much
+- [X] Avoid COVID
