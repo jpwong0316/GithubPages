@@ -21,8 +21,6 @@ Y'know the ***hardest and most difficult*** type of code.
 One thing that I want to share is the best tool if you need help with code. When in doubt, just go [here](https://www.google.com/).
 This is where you will find all the answers: to life, to death, and to hello world.
 
-If you want to see the original file for this page, [click here](https://github.com/jpwong0316/jpwong0316.github.io/blob/main/README.md#jason-wongs-user-page).
-
 ![Funny CS meme haha](testimage.webp)
 
 A list of languages that I have some experience with ~~doesn't mean I'm good with all of them~~:
@@ -33,6 +31,8 @@ A list of languages that I have some experience with ~~doesn't mean I'm good wit
 - Assembly
 
 My to-do list for this quarter:
-- [ ] Don't fail horribly
-- [ ] Try not to procrastinate too much
-- [X] Avoid COVID
+- [ ]  Don't fail horribly
+- [ ]  Try not to procrastinate too much
+- [X]  Avoid COVID
+
+[Go back to top](#jason-wongs-user-page).
